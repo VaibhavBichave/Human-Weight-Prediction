@@ -1,5 +1,5 @@
-# Weight-Prediction-using-Machine-Learing
- The objective of this project is to predict the **Weight Prediction using Machine Learning algorithms** and to analyzing significant patterns features that results in increase in Weight.
+# Human Weight Prediction 
+ The objective of this project is to predict the **Human Weight Prediction using Machine Learning algorithms** and to analyzing significant patterns features that results in increase in Weight.
  
 ## Libraries Used :
 1. Numpy
